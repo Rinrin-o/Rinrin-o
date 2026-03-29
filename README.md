@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠 技術スタック（学習・趣味開発含む）
+### 🛠 技術スタック
 > ※ 実務経験ではなく、研究や趣味、授業、講座等で触れたことがある技術です。今後もっと広く深く学んでいきます！
 
 #### 言語・フレームワーク
@@ -56,7 +56,7 @@
 
 ### 📊 GitHub Activity
 > カードの生成は　https://zenn.dev/a_ichi1/articles/64f353e23408b9
-> を参考にさせていただきました。profile-summary-card-outputのREADMEの中にコードあり
+> を参考にさせていただきました。profile-summary-card-outputのREADMEにコードあり
 
 [![](https://raw.githubusercontent.com/Hikarinrin7/Hikarinrin7/main/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Hikarinrin7/Hikarinrin7/main/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Hikarinrin7/Hikarinrin7/main/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
