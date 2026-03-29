@@ -55,7 +55,8 @@
 ---
 
 ### 📊 GitHub Activity
-> カードの生成は　https://zenn.dev/a_ichi1/articles/64f353e23408b9　を参考にさせていただきました。profile-summary-card-outputのREADMEの中にコードあり
+> カードの生成は　https://zenn.dev/a_ichi1/articles/64f353e23408b9　を参考にさせていただきました。
+> profile-summary-card-outputのREADMEの中にコードあり
 
 [![](https://raw.githubusercontent.com/Hikarinrin7/Hikarinrin7/main/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Hikarinrin7/Hikarinrin7/main/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Hikarinrin7/Hikarinrin7/main/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
