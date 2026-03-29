@@ -55,13 +55,7 @@
 ---
 
 ### 📊 GitHub Activity
-> カードの生成は　https://zenn.dev/a_ichi1/articles/64f353e23408b9　を参考にさせていただきました。「profile-summary-card-output」の中のREADMEの中にコードあり
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.app/?user=Hikarinrin7&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hikarinrin7&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hikarinrin7&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
+> カードの生成は　https://zenn.dev/a_ichi1/articles/64f353e23408b9　を参考にさせていただきました。profile-summary-card-outputのREADMEの中にコードあり
+[![](https://raw.githubusercontent.com/Hikarinrin7/Hikarinrin7/main/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Hikarinrin7/Hikarinrin7/main/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Hikarinrin7/Hikarinrin7/main/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Hikarinrin7/Hikarinrin7/main/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Hikarinrin7/Hikarinrin7/main/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
