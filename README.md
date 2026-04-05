@@ -47,6 +47,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
   <img src="https://img.shields.io/badge/Oculus-040404?style=for-the-badge&logo=oculus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-222222?style=for-the-badge&logo=blender&logoColor=F87016" />
   <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
